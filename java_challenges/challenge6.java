@@ -1,7 +1,6 @@
-
 import java.util.Scanner;
 
-public class challenge3 {
+public class challenge6 {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter the Loan amount: ");
