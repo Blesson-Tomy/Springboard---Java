@@ -11,7 +11,7 @@ public class challenge3 {
         System.out.println("Enter the Time period(in years): ");
         int t = obj.nextInt();
 
-        for(int i=0;i<=t;i++){
+        for(int i=0;i<t;i++){
             System.out.println("The Simple Interest for year "+(i+1)+" is: "+(p*r)/100);
         }
 

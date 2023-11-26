@@ -11,7 +11,6 @@ public class challenge2 {
         System.out.println("Enter the Time period(in years): ");
         int t = obj.nextInt();
 
-        double ans = (p*r*t)/100;
-        System.out.println("The Simple Interest is: "+ans);
+
     }
 }

@@ -1,4 +1,4 @@
-package java_challenges;
+
 
 class challenge1 {
     public static void main(String[] args) {
